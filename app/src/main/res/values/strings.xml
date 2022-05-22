@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L8_Intents_Practice</string>
+    <string name="button">Button</string>
+    <string name="dial_a_number">Dial a number</string>
+    <string name="open_a_web_page">Open a web page</string>
+    <string name="mail">Mail</string>
+    <string name="move_to_second_activity">Move to second activity</string>
+    <string name="textview">TextView</string>
+</resources>
